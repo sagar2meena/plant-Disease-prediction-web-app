@@ -10,4 +10,5 @@ flask run
 
 Detail: Flask App running on http://127.0.0.1:5000 / Or on your metioned PORT No
 
+![102019983-685c3d00-3d9c-11eb-9cd5-f3fece8957a3](https://user-images.githubusercontent.com/96478709/158436981-b030ace8-3e7f-4b81-beda-d431eabf8af1.png)
 
