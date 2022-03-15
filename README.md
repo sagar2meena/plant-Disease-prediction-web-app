@@ -11,6 +11,7 @@ Run the Flask App using this CMD:
 flask run
 
 Detail: Flask App running on http://127.0.0.1:5000 / Or on your metioned PORT No
-
-![102019983-685c3d00-3d9c-11eb-9cd5-f3fece8957a3](https://user-images.githubusercontent.com/96478709/158436981-b030ace8-3e7f-4b81-beda-d431eabf8af1.png)
+![102019983-685c3d00-3d9c-11eb-9cd5-f3fece8957a3](https://user-images.githubusercontent.com/96478709/158438376-5ce2449c-3fa3-4b4b-9a38-6b25401753fe.png)
+![68747470733a2f2f692e696d6775722e636f6d2f736f7a6733664c2e706e673f31](https://user-images.githubusercontent.com/96478709/158438390-0764f846-fc42-4bf6-81f9-9d1746dafeb7.png)
+![68747470733a2f2f692e696d6775722e636f6d2f54693367464d612e706e673f31](https://user-images.githubusercontent.com/96478709/158438406-cae4579d-408c-4377-9d37-b5fc5768bb12.png)
 
