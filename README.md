@@ -1,5 +1,7 @@
 # Cotton-Disease-prediction-web-app
 Created a web application using Flask,Tensorflow-Keras in this we have used Transfer Learning in which we are using INCEPTION-V3 Architecture, this web application classify images of the diseased cotton leaf,fresh cotton leaf,diseased cotton plant and fresh cotton plant.
+![images](https://user-images.githubusercontent.com/96478709/158438197-9c09865a-984b-40dc-87b3-09decd0daf4c.jpg)
+
 
 # Introduction:
 Created a web application using Flask,Tensorflow-Keras in this we have used Transfer Learning in which we are using INCEPTION-V3 Architecture, this web application classify images of the diseased cotton leaf,fresh cotton leaf,diseased cotton plant and fresh cotton plant.
