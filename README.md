@@ -6,7 +6,7 @@ Created a web application using django,Tensorflow-Keras in this we have used Tra
 # Introduction:
 Created a web application using Django and react js,Tensorflow-Keras in this we have used Transfer Learning in which we are using INCEPTION-V3 Architecture, this web application classify images of the  diseased plant leaf,fresh plant leaf,diseased plant,fresh plant.
 
-Run the Django App using this CMD:
+Run the Flask App using this CMD:
 
 start Aerolate
 
